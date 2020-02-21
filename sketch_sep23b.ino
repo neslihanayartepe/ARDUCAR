@@ -1,4 +1,4 @@
-#include <SoftwareSerial.h>
+#include <SoftwareSerial.h> // HC05 BLUETOOTH MODULÜ AYARLARI
 
 SoftwareSerial BTSerial(10, 11); // TX | RX modülün tx'i 10 nolu pin'e rx'i 11 nolu pin
 
